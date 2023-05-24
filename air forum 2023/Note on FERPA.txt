@@ -1,0 +1,7 @@
+FERPA considerations for Subsequent Enrollment data can be found here:
+https://secure.studentclearinghouse.org/webquery/images/FERPA%20content%20for%20ST%20online.pdf
+
+In the document ("Admissions Subsequent Enrollment for Prospective Students/Former Applicants"), National Student Clearinghouse
+maintains that records "maintained by an institution about an individual who has submitted a request for information (prospect) or 
+applied for admission but has not been admitted and enrolled are not considered 'education records' under FERPA." Under this definition,
+institutions may request and share unblocked directory information on students who fit these criteria.
